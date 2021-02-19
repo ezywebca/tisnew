@@ -1,0 +1,5 @@
+.env.example
+
+lib/
+node_modules/
+logs/*/*
